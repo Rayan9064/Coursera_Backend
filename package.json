@@ -4,7 +4,8 @@
   "description": "\"Project created for internship at Aeonaxy Tech\"",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npm run build"
   },
   "author": "Mohammed Rayan A",
   "license": "ISC",
